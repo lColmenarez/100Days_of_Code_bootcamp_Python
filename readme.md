@@ -57,3 +57,7 @@ Day19
 Day20-21
 - Snake Game
 - Inheritance
+
+Day22
+- Pong Game project.
+- reinforcement of previous concepts
