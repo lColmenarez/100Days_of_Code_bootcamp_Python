@@ -61,3 +61,7 @@ Day20-21
 Day22
 - Pong Game project.
 - reinforcement of previous concepts
+
+Day23
+- The turtle crossing Capstone project.
+- A General project to practice all the previous conecepts related to project apporach and project separation into smallest chuck of code to work together.
