@@ -65,3 +65,8 @@ Day22
 Day23
 - The turtle crossing Capstone project.
 - A General project to practice all the previous conecepts related to project apporach and project separation into smallest chuck of code to work together.
+
+Day24
+- Update to Snake project (Day20, to storage the High Score)
+- Use of files on Python (relatives and absolutes paths)
+- Automate an invitation letter list
