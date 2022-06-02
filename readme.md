@@ -70,3 +70,8 @@ Day24
 - Update to Snake project (Day20, to storage the High Score)
 - Use of files on Python (relatives and absolutes paths)
 - Automate an invitation letter list
+
+Day25
+- Intermediate working with CSV.
+- Intro to Pandas.
+- States Game
