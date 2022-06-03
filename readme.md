@@ -75,3 +75,6 @@ Day25
 - Intermediate working with CSV.
 - Intro to Pandas.
 - States Game
+
+Day26
+- List and Dictionary comprehension
