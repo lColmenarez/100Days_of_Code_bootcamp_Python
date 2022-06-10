@@ -80,5 +80,5 @@ Day26
 - List and Dictionary comprehension
 
 Day27
-- *args & *kwargs usage.
+- *args & **kwargs usage.
 - 1st GUI program.
