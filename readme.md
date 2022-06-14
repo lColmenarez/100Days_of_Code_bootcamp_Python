@@ -82,3 +82,8 @@ Day26
 Day27
 - *args & **kwargs usage.
 - 1st GUI program.
+
+Day28
+- TKinter library use.
+- Dynamic Typing
+- Pomodoro GUI app.
