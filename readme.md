@@ -90,3 +90,8 @@ Day28
 
 Day29
 - Tkinter password app.
+
+Day30
+- Error handling using exceptions.
+- json data intro
+- Uptade projects such as passport generator and Nato alphabet
