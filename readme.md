@@ -95,3 +95,6 @@ Day30
 - Error handling using exceptions.
 - json data intro
 - Uptade projects such as passport generator and Nato alphabet
+
+Day31-(Capstone_Project)
+-Flash card app, concepts recap
