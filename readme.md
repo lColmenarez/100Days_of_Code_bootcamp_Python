@@ -97,4 +97,7 @@ Day30
 - Uptade projects such as passport generator and Nato alphabet
 
 Day31-(Capstone_Project)
--Flash card app, concepts recap
+- Flash card app, concepts recap
+
+Day32
+- SMTPlib + mail automation delivery
