@@ -101,3 +101,7 @@ Day31-(Capstone_Project)
 
 Day32
 - SMTPlib + mail automation delivery
+
+Day33
+- Requests lib usage.
+- Multi API projects.
