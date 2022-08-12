@@ -110,4 +110,7 @@ Day34
 - Update to Project from Day17.
 - OOP and GUI on the final porject.
 
-test.
+Day35
+- Api Keys.
+- Authentication
+- SMS send.
