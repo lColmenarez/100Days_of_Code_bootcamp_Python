@@ -114,3 +114,8 @@ Day35
 - Api Keys.
 - Authentication
 - SMS send.
+
+Day36
+- Api usage for Stocks information.
+- News obout that stock
+- Intermediate Project idea.
