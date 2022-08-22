@@ -119,3 +119,7 @@ Day36
 - Api usage for Stocks information.
 - News obout that stock
 - Intermediate Project idea.
+
+Day37
+- API tracking project.
+- POST method headers.
