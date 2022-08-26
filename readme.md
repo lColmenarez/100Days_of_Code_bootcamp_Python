@@ -123,3 +123,7 @@ Day36
 Day37
 - API tracking project.
 - POST method headers.
+
+Day38
+- Fitness tracker project
+- Use of APIs and CRUD methods
