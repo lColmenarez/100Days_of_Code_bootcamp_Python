@@ -130,3 +130,6 @@ Day38
 
 Day39
 - Flight Deal finder Project.
+
+Day40
+- Flight deal finder Project Part2.
