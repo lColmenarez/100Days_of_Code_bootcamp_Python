@@ -136,3 +136,7 @@ Day40
 
 Day41
 - Intro To HTML code and structure.
+
+Day42
+- Intermediate HTML
+- Tables and update Day41 project.
