@@ -141,3 +141,6 @@ Day42
 - Intermediate HTML
 - Tables and update Day41 project.
 - Updated
+
+Day43
+- Intro to CSS
