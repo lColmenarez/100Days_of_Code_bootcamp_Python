@@ -7,24 +7,20 @@ h1 {
 
 .top-container {
     background-color: #E4F9F5;
-    width: 200px;
-    height: 200px;
-    border: solid 10px;
-    padding: 20px;
 }
 
 .middle-container {
     background-color: red;
-    border: solid 20px;
-    margin-left: 260px;
     width: 200px;
     height:  200px;
 }
 
 .bottom-container {
     background-color: blue;
-    border: solid 10px;
-    margin-left: 500px;
     width: 200px;
     height:  200px;
+}
+
+.pro {
+    text-decoration: underline;
 }
