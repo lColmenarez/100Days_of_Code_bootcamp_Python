@@ -151,3 +151,4 @@ Day44
 Day45
 - Intermediate Web Scraping.
 - BS4.
+- Practice project on top 100 movies.
