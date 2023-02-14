@@ -152,3 +152,7 @@ Day45
 - Intermediate Web Scraping.
 - BS4.
 - Practice project on top 100 movies.
+
+Day46
+- Intermediate Project - Create and Spotify playlist.
+
