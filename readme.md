@@ -156,3 +156,5 @@ Day45
 Day46
 - Intermediate Project - Create and Spotify playlist.
 
+Day47
+- Create an automate price traker for Amazon.
