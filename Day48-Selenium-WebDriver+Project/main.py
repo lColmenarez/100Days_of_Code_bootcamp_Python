@@ -14,4 +14,7 @@ time.sleep(3)
 price = driver.find_element(By.CLASS_NAME , "a-offscreen")
 print(price.get_attribute("innerHTML"))
 
+desc = driver.find_element(By.XPATH, '//*[@id="productTitle"]')
+print(desc.get_attribute("innerHTML"))
+
 driver.close()
