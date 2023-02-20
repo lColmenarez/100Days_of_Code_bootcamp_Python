@@ -173,3 +173,10 @@ Day51
 
 Day52
 - Instagram Follower Bot
+
+Day53
+- Web Scraping Capstone Project.
+- selenium + beutifulsoup
+
+Day54
+- Introduction to Web development con Flask.
