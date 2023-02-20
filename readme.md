@@ -160,4 +160,7 @@ Day47
 - Create an automate price traker for Amazon.
 
 Day48
+- automate Game Browser.
+
+Day49
 - Automated apply to lickedIn Using selenium

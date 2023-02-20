@@ -13,7 +13,6 @@ articles = driver.find_element(By.CSS_SELECTOR, "#articlecount a")
 print(articles.get_attribute("innerHTML"))
 
 search = driver.find_element(By.NAME, "search")
-#search.send_keys()
 search.send_keys("Python", Keys.ENTER)
 
 sleep(4)
