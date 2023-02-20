@@ -167,3 +167,9 @@ Day49
 
 Day50
 - Tinder Bot, Just Copy Paste not a interesting project to me.
+
+Day51
+- automate complain twitter Bot
+
+Day52
+- Instagram Follower Bot
