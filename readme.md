@@ -164,3 +164,6 @@ Day48
 
 Day49
 - Automated apply to lickedIn Using selenium
+
+Day50
+- Tinder Bot, Just Copy Paste not a interesting project to me.
